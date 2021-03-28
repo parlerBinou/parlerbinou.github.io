@@ -3,11 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://parlerbinou.github.io/categories/</loc>
+    <loc>https://parlerbinou.github.io/posts/my-name/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://parlerbinou.github.io/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/posts/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/posts/usual-disclaimer/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/categories/</loc>
   </url>
   
   <url>

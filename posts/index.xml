@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>neither nor</title>
-    <link>https://parlerbinou.github.io/</link>
-    <description>Recent content on neither nor</description>
+    <title>Posts on neither nor</title>
+    <link>https://parlerbinou.github.io/posts/</link>
+    <description>Recent content in Posts on neither nor</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://parlerbinou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://parlerbinou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Name</title>
       <link>https://parlerbinou.github.io/posts/my-name/</link>
@@ -25,20 +25,6 @@ It&amp;rsquo;s a name with two syllables - in the way syllables are counted in t
       <guid>https://parlerbinou.github.io/posts/usual-disclaimer/</guid>
       <description>All contents, opinions, or ideas expressed in this blog are my own, and none of them are reviewed, supported, or endorsed in any manner by my current or past employers.</description>
     </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://parlerbinou.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://parlerbinou.github.io/about/</guid>
-      <description>Hi, I&amp;rsquo;m Hyeongsuk.
-You can read a little bit more about my name in this post.
-I&amp;rsquo;m working as an analyst at Statistics Canada.
-At work, I study issues related to the registered apprenticeship program in Canada. I&amp;rsquo;m also working on some data visualization projects.
-I studied economics at Western University (aka the University of Western Ontario). In my doctoral dissertation, I studied decisions the family makes regarding household unions, fertility, and child investment.</description>
-    </item>
-    
     
   </channel>
 </rss>
