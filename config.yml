@@ -2,6 +2,7 @@ baseURL: "https://parlerbinou.github.io"
 title: neither nor
 paginate: 5
 theme: PaperMod
+Copyright: Contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
 
 enableRobotsTXT: true
 buildDrafts: false
