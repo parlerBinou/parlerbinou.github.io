@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data visualization on neither nor</title>
+    <link>https://parlerbinou.github.io/tags/data-visualization/</link>
+    <description>Recent content in data visualization on neither nor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)</copyright>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parlerbinou.github.io/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shiny app: Interprovincial mobility of journeypersons in Canada</title>
+      <link>https://parlerbinou.github.io/posts/interprovincial-mobility-of-journeypersons-in-canada/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parlerbinou.github.io/posts/interprovincial-mobility-of-journeypersons-in-canada/</guid>
+      <description>I made this interactive visualization tool based on Shiny. It presents the data (Statistics Canada Table 37-10-0204-01) in a nice Chord diagram.
+Please not that this is not an official product from StatCan.
+ English version La version française  All programs are available on this GitHub repository.</description>
+    </item>
+    
+    <item>
+      <title>Canadian Apprenticeship Registrations and Certifications: Interactive Tool</title>
+      <link>https://parlerbinou.github.io/posts/visualization-tool-canadian-apprenticeship-registrations-and-certifications/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://parlerbinou.github.io/posts/visualization-tool-canadian-apprenticeship-registrations-and-certifications/</guid>
+      <description>This is a Power BI-based data visualization tool I made.
+Check out at Statistics Canada&amp;rsquo;s website:
+ English version La version française  Many teams at StatCan publish a lot of interesting interative tools, which appear not very well-known.</description>
+    </item>
+    
+  </channel>
+</rss>

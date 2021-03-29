@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://parlerbinou.github.io/posts/my-name/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <loc>https://parlerbinou.github.io/tags/data-visualization/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://parlerbinou.github.io/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://parlerbinou.github.io/posts/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/tags/projects/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/posts/interprovincial-mobility-of-journeypersons-in-canada/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/tags/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/posts/visualization-tool-canadian-apprenticeship-registrations-and-certifications/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/posts/factors-associated-with-the-completion-of-apprenticeship-training-in-canada/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/posts/essays-on-family-economics/</loc>
+    <lastmod>2020-08-17T17:17:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://parlerbinou.github.io/posts/my-name/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -32,10 +67,6 @@
   
   <url>
     <loc>https://parlerbinou.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://parlerbinou.github.io/tags/</loc>
   </url>
   
 </urlset>
