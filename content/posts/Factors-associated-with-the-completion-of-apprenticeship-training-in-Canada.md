@@ -16,6 +16,8 @@ French versions are also available: [Le Quotidien](https://www150.statcan.gc.ca/
 
 ------
 
+*(Below is the abstract of the article and subject to [Statistics Canada Open License Agreement](https://www.statcan.gc.ca/eng/reference/licence).)*
+
 Apprenticeship training is the key pathway for an individual to become a skilled tradesperson in Canada. This study uses data from the Education and Labour Market Longitudinal Platform from 2008 to 2016 to examine which factors affect the certification rates of registered apprentices in Canada. This study also examines the impact of employment conditions during on-the-job training (the paid portion of the training) on program completion.
 
 - Among apprentices who had registered in an apprenticeship training since 2008, few completed their program on time. At the end of the expected program duration, only 16% of apprentices had obtained their certificate, while 64% were still in their program and 20% had left their program.

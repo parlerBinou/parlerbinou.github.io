@@ -15,3 +15,8 @@ Please not that this is not an official product from StatCan.
 - [La version française](https://shiny.covid.cloud.statcan.ca/rais_siai/fr/)
 
 All programs are available on this [GitHub repository](https://github.com/parlerBinou/R-dashboards/tree/master/rais_siai).
+
+### Update on June 24, 2021
+This product is going to be discontinued.
+The above link may not be maintained and can be removed in the future.  
+[An updated version](posts/Canadian-Apprenticeship-Longitudinal-Indicators.md) with more data is released on June 24, 2021.

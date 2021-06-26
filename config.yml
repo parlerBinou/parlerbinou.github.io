@@ -1,8 +1,8 @@
 baseURL: "https://parlerbinou.github.io"
-title: neither nor
+title: parlerBinou
 paginate: 5
 theme: PaperMod
-Copyright: Contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+Copyright: Unless stated otherwise, contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -15,10 +15,10 @@ minify:
 
 Params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: neither nor
+    title: parlerBinou
     description: "Hyeongsuk's blog"
 
-    defaultTheme: auto # dark, light
+    defaultTheme: dark # dark, light
     disableThemeToggle: false
 
     ShowReadingTime: false
@@ -36,6 +36,8 @@ Params:
     socialIcons:
         - name: github
           url: "https://github.com/parlerBinou"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/hyeongsuk-jin-145657214/"
 
 menu:
     main:
