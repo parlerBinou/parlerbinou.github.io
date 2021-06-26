@@ -8,7 +8,7 @@ tags:
     - shiny
 ---
 
-I created with with my colleagues [Chaoyang](https://www.linkedin.com/in/chaoyang-zheng-525306106/) and Anouk this interactive data visulization tool based on [Shiny](https://shiny.rstudio.com/).
+We - together with my colleagues [Chaoyang](https://www.linkedin.com/in/chaoyang-zheng-525306106/) and Anouk - created this interactive data visulization tool based on [Shiny](https://shiny.rstudio.com/).
 
 Check out at Statistics Canada’s website:
 
