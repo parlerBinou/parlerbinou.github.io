@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on neither nor</title>
+    <title>Categories on parlerBinou</title>
     <link>https://parlerbinou.github.io/categories/</link>
-    <description>Recent content in Categories on neither nor</description>
+    <description>Recent content in Categories on parlerBinou</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)</copyright><atom:link href="https://parlerbinou.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Unless stated otherwise, contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)</copyright><atom:link href="https://parlerbinou.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

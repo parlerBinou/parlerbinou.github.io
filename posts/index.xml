@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on neither nor</title>
+    <title>Posts on parlerBinou</title>
     <link>https://parlerbinou.github.io/posts/</link>
-    <description>Recent content in Posts on neither nor</description>
+    <description>Recent content in Posts on parlerBinou</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)</copyright>
-    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parlerbinou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Unless stated otherwise, contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)</copyright>
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parlerbinou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canadian Apprenticeship Longitudinal Indicators: Interactive Tool</title>
+      <link>https://parlerbinou.github.io/posts/canadian-apprenticeship-longitudinal-indicators/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parlerbinou.github.io/posts/canadian-apprenticeship-longitudinal-indicators/</guid>
+      <description>I created with with my colleagues Chaoyang and Anouk this interactive data visulization tool based on Shiny.
+Check out at Statistics Canada’s website:
+ English version La version française  All programs are available on this GitHub repository.</description>
+    </item>
+    
     <item>
       <title>Shiny app: Interprovincial mobility of journeypersons in Canada</title>
       <link>https://parlerbinou.github.io/posts/interprovincial-mobility-of-journeypersons-in-canada/</link>
@@ -15,7 +26,8 @@
       <guid>https://parlerbinou.github.io/posts/interprovincial-mobility-of-journeypersons-in-canada/</guid>
       <description>I made this interactive visualization tool based on Shiny. It presents the data (Statistics Canada Table 37-10-0204-01) in a nice Chord diagram.
 Please not that this is not an official product from StatCan.
- English version La version française  All programs are available on this GitHub repository.</description>
+ English version La version française  All programs are available on this GitHub repository.
+Update on June 24, 2021 This product is going to be discontinued. The above link may not be maintained and can be removed in the future.</description>
     </item>
     
     <item>
@@ -37,7 +49,7 @@ Check out at Statistics Canada&amp;rsquo;s website:
       <guid>https://parlerbinou.github.io/posts/factors-associated-with-the-completion-of-apprenticeship-training-in-canada/</guid>
       <description>This article is published on Statistics Canada&amp;rsquo;s Insights on Canadian Society.
  The Daily (a short summary of the article for press release): Study: Completing apprenticeship training in Canada Article: Factors associated with the completion of apprenticeship training in Canada Infographic: Completing apprenticeship training in Canada  French versions are also available: Le Quotidien, L&amp;rsquo;article, L&amp;rsquo;inforgraphie
- Apprenticeship training is the key pathway for an individual to become a skilled tradesperson in Canada.</description>
+ (Below is the abstract of the article and subject to Statistics Canada Open License Agreement.</description>
     </item>
     
     <item>

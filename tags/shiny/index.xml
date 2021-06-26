@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shiny on parlerBinou</title>
+    <link>https://parlerbinou.github.io/tags/shiny/</link>
+    <description>Recent content in shiny on parlerBinou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Unless stated otherwise, contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)</copyright>
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parlerbinou.github.io/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canadian Apprenticeship Longitudinal Indicators: Interactive Tool</title>
+      <link>https://parlerbinou.github.io/posts/canadian-apprenticeship-longitudinal-indicators/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parlerbinou.github.io/posts/canadian-apprenticeship-longitudinal-indicators/</guid>
+      <description>I created with with my colleagues Chaoyang and Anouk this interactive data visulization tool based on Shiny.
+Check out at Statistics Canada’s website:
+ English version La version française  All programs are available on this GitHub repository.</description>
+    </item>
+    
+  </channel>
+</rss>

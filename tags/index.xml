@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on neither nor</title>
+    <title>Tags on parlerBinou</title>
     <link>https://parlerbinou.github.io/tags/</link>
-    <description>Recent content in Tags on neither nor</description>
+    <description>Recent content in Tags on parlerBinou</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)</copyright>
-    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parlerbinou.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Unless stated otherwise, contents are licensed under a [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)</copyright>
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://parlerbinou.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data visualization</title>
       <link>https://parlerbinou.github.io/tags/data-visualization/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://parlerbinou.github.io/tags/data-visualization/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>projects</title>
       <link>https://parlerbinou.github.io/tags/projects/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://parlerbinou.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiny</title>
+      <link>https://parlerbinou.github.io/tags/shiny/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://parlerbinou.github.io/tags/shiny/</guid>
       <description></description>
     </item>
     
