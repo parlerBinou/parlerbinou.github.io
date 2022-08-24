@@ -1,7 +1,7 @@
 ---
 title: "Shiny app: Interprovincial mobility of journeypersons in Canada"
 date: 2021-03-10
-draft: false
+draft: true
 tags:
     - projects
     - data visualization
@@ -19,4 +19,4 @@ All programs are available on this [GitHub repository](https://github.com/parler
 ### Update on June 24, 2021
 This product is going to be discontinued.
 The above link may not be maintained and can be removed in the future.  
-[An updated version](posts/Canadian-Apprenticeship-Longitudinal-Indicators.md) with more data is released on June 24, 2021.
+[An updated version](posts/Canadian-Apprenticeship-Longitudinal-Indicators) with more data is released on June 24, 2021.
