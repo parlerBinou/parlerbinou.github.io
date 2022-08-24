@@ -53,18 +53,6 @@ Check out at Statistics Canada’s website:
     </item>
     
     <item>
-      <title>Shiny app: Interprovincial mobility of journeypersons in Canada</title>
-      <link>https://parlerbinou.github.io/posts/interprovincial-mobility-of-journeypersons-in-canada/</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://parlerbinou.github.io/posts/interprovincial-mobility-of-journeypersons-in-canada/</guid>
-      <description>I made this interactive visualization tool based on Shiny. It presents the data (Statistics Canada Table 37-10-0204-01) in a nice Chord diagram.
-Please not that this is not an official product from StatCan.
- English version La version française  All programs are available on this GitHub repository.
-Update on June 24, 2021 This product is going to be discontinued. The above link may not be maintained and can be removed in the future.</description>
-    </item>
-    
-    <item>
       <title>Canadian Apprenticeship Registrations and Certifications: Interactive Tool</title>
       <link>https://parlerbinou.github.io/posts/visualization-tool-canadian-apprenticeship-registrations-and-certifications/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
