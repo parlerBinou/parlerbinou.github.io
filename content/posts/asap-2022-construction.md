@@ -6,7 +6,7 @@ tags:
     - projects
 ---
 
-[This paper](https://doi.org/10.1007/s12061-022-09445-3), coauthored with Michael Haan and Paul Taylor at Western University, is published on [Applied Spatial Analysis and Policy](https://www.springer.com/journal/12061).
+[This paper](https://doi.org/10.1007/s12061-022-09445-3), coauthored with Michael Haan and Taylor Paul at Western University, is published on [Applied Spatial Analysis and Policy](https://www.springer.com/journal/12061).
 
 ---
 

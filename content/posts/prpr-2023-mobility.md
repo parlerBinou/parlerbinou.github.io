@@ -6,7 +6,7 @@ tags:
     - projects
 ---
 
-[This paper](https://link.springer.com/article/10.1007/s11113-023-09748-4), coauthored with Michael Haan and Paul Taylor at Western University, is published on [Population Research and Policy Review](https://www.springer.com/journal/11113).
+[This paper](https://link.springer.com/article/10.1007/s11113-023-09748-4), coauthored with Michael Haan and Taylor Paul at Western University, is published on [Population Research and Policy Review](https://www.springer.com/journal/11113).
 
 ---
 
